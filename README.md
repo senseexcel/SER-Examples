@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis feugiat leo sit am
 
 ### 4.1 1_Sales_
 
-![1_Sales](https://m.sense2go.net/asset/39:1sales-demo-sense-excel-reportingzip)
+![1_Sales](https://senseexcel.com/assets/images/examples/1_Sales.png)
 
 Description: Integer egestas aliquam leo, sed tempus metus porta id. In felis quam, sagittis vitae purus eu, molestie rhoncus nisl. In sit amet metus ut velit aliquam pellentesque a quis nunc. Aenean accumsan tincidunt tortor vel iaculis. Etiam volutpat a diam in porta. Curabitur non quam vel lacus pharetra sodales in in tortor.
 
@@ -45,7 +45,7 @@ Link to Download: https://m.sense2go.net/asset/39:1sales-demo-sense-excel-report
 
 ### 4.2 2_Sales_
 
-![2_Sales](https://m.sense2go.net/asset/40:2sales-demo-sense-excel-reportingzip)
+![2_Sales](https://senseexcel.com/assets/images/examples/2_Sales_a.png)
 
 Description: Integer egestas aliquam leo, sed tempus metus porta id. In felis quam, sagittis vitae purus eu, molestie rhoncus nisl. In sit amet metus ut velit aliquam pellentesque a quis nunc. Aenean accumsan tincidunt tortor vel iaculis. Etiam volutpat a diam in porta. Curabitur non quam vel lacus pharetra sodales in in tortor.
 
@@ -55,8 +55,6 @@ Apps: 2_Sales_App, 2_Sales_Task_A, 2_Sales_Task_B, 2_Sales_Task_C
 
 Templates: 2_Sales_Template_A; 2_Sales_Template_B; 2_Sales_Template_B_Dark; 2_Sales_Template_C;
 
-
-
 Link to Videos:
 
 Link to Download: https://m.sense2go.net/asset/40:2sales-demo-sense-excel-reportingzip
@@ -64,7 +62,7 @@ Link to Download: https://m.sense2go.net/asset/40:2sales-demo-sense-excel-report
 
 ### 4.3 3_Project_Plan_
 
-![3_Project_Plan](https://m.sense2go.net/asset/41:3sales-demo-sense-excel-reportingzip)
+![3_Project_Plan](https://senseexcel.com/assets/images/examples/3_projectplan.png)
 
 
 Description: Integer egestas aliquam leo, sed tempus metus porta id. In felis quam, sagittis vitae purus eu, molestie rhoncus nisl. In sit amet metus ut velit aliquam pellentesque a quis nunc. Aenean accumsan tincidunt tortor vel iaculis. Etiam volutpat a diam in porta. Curabitur non quam vel lacus pharetra sodales in in tortor.
@@ -83,7 +81,7 @@ Link to Download: https://m.sense2go.net/asset/41:3sales-demo-sense-excel-report
 
 ### 4.4 4_Distribution_
 
-![4_Distribution](https://m.sense2go.net/asset/69:4sales-demo-sense-excel-reportingzip)
+![4_Distribution](https://senseexcel.com/assets/images/examples/4_distribution.png)
 
 Description: Integer egestas aliquam leo, sed tempus metus porta id. In felis quam, sagittis vitae purus eu, molestie rhoncus nisl. In sit amet metus ut velit aliquam pellentesque a quis nunc. Aenean accumsan tincidunt tortor vel iaculis. Etiam volutpat a diam in porta. Curabitur non quam vel lacus pharetra sodales in in tortor.
 
@@ -101,7 +99,7 @@ Link to Download: https://m.sense2go.net/asset/69:4sales-demo-sense-excel-report
 
 ### 4.5 5_Executive_Dashboard_
 
-![5_Executive_Dashboard](https://m.sense2go.net/asset/70:5sales-demo-sense-excel-reportingzip)
+![5_Executive_Dashboard](https://senseexcel.com/assets/images/examples/5_executive-dashboard.png)
 
 
 Description: Integer egestas aliquam leo, sed tempus metus porta id. In felis quam, sagittis vitae purus eu, molestie rhoncus nisl. In sit amet metus ut velit aliquam pellentesque a quis nunc. Aenean accumsan tincidunt tortor vel iaculis. Etiam volutpat a diam in porta. Curabitur non quam vel lacus pharetra sodales in in tortor.
