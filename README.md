@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis feugiat leo sit am
 
 ## 4. Examples
 
-### 4.1 1_Sales_
+### 1_Sales_
 
 ![1_Sales](https://senseexcel.com/assets/images/examples/1_Sales.png)
 
@@ -43,7 +43,7 @@ Link to Videos:
 Link to Download: https://m.sense2go.net/asset/39:1sales-demo-sense-excel-reportingzip
 
 
-### 4.2 2_Sales_
+### 2_Sales_
 
 ![2_Sales](https://senseexcel.com/assets/images/examples/2_Sales_a.png)
 
@@ -60,7 +60,7 @@ Link to Videos:
 Link to Download: https://m.sense2go.net/asset/40:2sales-demo-sense-excel-reportingzip
 
 
-### 4.3 3_Project_Plan_
+### 3_Project_Plan_
 
 ![3_Project_Plan](https://senseexcel.com/assets/images/examples/3_projectplan.png)
 
@@ -79,7 +79,7 @@ Link to Videos:
 
 Link to Download: https://m.sense2go.net/asset/41:3sales-demo-sense-excel-reportingzip
 
-### 4.4 4_Distribution_
+### 4_Distribution_
 
 ![4_Distribution](https://senseexcel.com/assets/images/examples/4_distribution.png)
 
@@ -97,7 +97,7 @@ Link to Videos:
 
 Link to Download: https://m.sense2go.net/asset/69:4sales-demo-sense-excel-reportingzip
 
-### 4.5 5_Executive_Dashboard_
+### 5_Executive_Dashboard_
 
 ![5_Executive_Dashboard](https://senseexcel.com/assets/images/examples/5_executive-dashboard.png)
 
@@ -115,7 +115,7 @@ Link to Videos:
 Link to Download: https://m.sense2go.net/asset/70:5sales-demo-sense-excel-reportingzip
 
 
-### 4.6 6_Financial_Workbook_
+### 6_Financial_Workbook_
 
 ![6_Financial Workbook](https://senseexcel.com/assets/images/examples/6_financial-workbook.png)
 
@@ -134,7 +134,7 @@ Link to Videos:
 Link to Download: https://m.sense2go.net/asset/71:6sales-demo-sense-excel-reportingzip
 
 
-### 4.7 7_Helpdesk
+### 7_Helpdesk
 
 ![7_Helpdesk](https://senseexcel.com/assets/images/examples/7_helpdesk.png)
 
